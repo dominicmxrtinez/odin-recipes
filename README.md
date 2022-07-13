@@ -1,4 +1,4 @@
-# TOP-recipes
+# Odin-recipes
 
 ## This is my code for the Recipes project in The Odin Project Foundations course.
 
