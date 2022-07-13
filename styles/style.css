@@ -1,0 +1,28 @@
+* {
+    background-color: #d6cdae;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width:  250px;
+    height: 250px;
+    object-fit: cover;
+    margin: 10px;
+    transition: all 1s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
